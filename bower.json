@@ -1,0 +1,21 @@
+{
+  "name": "sunburst",
+  "version": "0.0.0",
+  "authors": [
+    "ptsurko <pavel.tsurko@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "scripts",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.4.1",
+    "jszip": "~2.0.0",
+    "xlsx.js": "https://github.com/stephen-hardy/xlsx.js.git"
+  }
+}
